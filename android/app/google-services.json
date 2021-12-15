@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51778411764",
+    "project_id": "dimouapp",
+    "storage_bucket": "dimouapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51778411764:android:dfd7b51cca0ea0edc6d2a1",
+        "android_client_info": {
+          "package_name": "com.projdevmobile.ali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51778411764-eee4t8tjhehbgdf8a0r7u8hojqa3fepf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf61x7femjeGLBlfL3wR4IL9D8Yu_nL6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51778411764-eee4t8tjhehbgdf8a0r7u8hojqa3fepf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
